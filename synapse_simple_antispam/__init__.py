@@ -1,0 +1,2 @@
+
+from .antiSpamInvites import AntiSpamInvitesModule
